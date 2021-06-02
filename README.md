@@ -8,6 +8,9 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
+<img width="945" alt="Screen Shot 2021-06-02 at 10 06 14 AM" src="https://user-images.githubusercontent.com/33885541/120523602-f055f380-c38a-11eb-953a-5c54ca503aac.png">
+
+<!--
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -15,13 +18,11 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-
+-->
 
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="..">
-    <img src="../logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Tipple Tracker</h3>
@@ -71,8 +72,10 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+<p align="center">
+<img width="377" alt="Screen Shot 2021-06-02 at 10 06 22 AM" src="https://user-images.githubusercontent.com/33885541/120523869-49be2280-c38b-11eb-88ff-57000f94e98f.png">
 
-[![Tipple Screen Shot][product-screenshot]](https://example.com)
+(More Images and Demo Coming Soon!)
 
 Ever rebuy the same wine only to later remember that you actually didn’t like that one?  Ever struggle to remember that amazing brew you had last summer?  Enter… tipple tracker! (can also be used for cheese, kid snacks for sharing with babysitters, anything!)
 
@@ -102,12 +105,11 @@ MERN stack, hosted with Cloudinary.
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+Coming Soon!
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+TComing Soon!
 * npm
   ```sh
   npm install npm@latest -g
@@ -115,39 +117,23 @@ This is an example of how to list things you need to use the software and how to
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```JS
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
+Coming Soon!
 
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
+Coming Soon!
 
 
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
-
-
+Coming Soon!
 
 <!-- CONTRIBUTING -->
+
+<!--
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -157,7 +143,7 @@ Contributions are what make the open source community such an amazing place to b
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
+-->
 
 
 <!-- LICENSE -->
@@ -169,15 +155,16 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 <!-- CONTACT -->
 ## Contact
-
+<!--
 Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
 
 Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
-
+-->
 
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
+<!--
 * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
 * [Img Shields](https://shields.io)
 * [Choose an Open Source License](https://choosealicense.com)
@@ -189,7 +176,7 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 * [Sticky Kit](http://leafo.net/sticky-kit)
 * [JVectorMap](http://jvectormap.com)
 * [Font Awesome](https://fontawesome.com)
-
+-->
 
 
 
