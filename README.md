@@ -1,11 +1,3 @@
-<img width="945" alt="Screen Shot 2021-06-02 at 10 06 14 AM" src="https://user-images.githubusercontent.com/33885541/120523003-42e2e000-c38a-11eb-8278-717946eead87.png">
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Thanks again! Now go create something AMAZING! :D
--->
-
 
 
 <!-- PROJECT SHIELDS -->
@@ -37,14 +29,13 @@
   <p align="center">
     An app built to help you keep track of your favorite drinks, and share with friends!
     <br />
-  Built with: React.js, Express.js, Node.js, MongoDB.   
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="..">View Demo</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="..">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="..">Request Feature</a>
   </p>
 </p>
 
