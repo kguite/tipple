@@ -1,3 +1,4 @@
+<img width="945" alt="Screen Shot 2021-06-02 at 10 06 14 AM" src="https://user-images.githubusercontent.com/33885541/120523003-42e2e000-c38a-11eb-8278-717946eead87.png">
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
 *** that would make this better, please fork the repo and create a pull request
@@ -80,18 +81,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Tipple Screen Shot][product-screenshot]](https://example.com)
 
-	Title: Tipple Tracker (hehe funny name)
-	Point:  Ever rebuy the same wine only to later remember that you actually didn’t like that one?  Ever struggle to remember that amazing brew you had last summer?  Enter… tipple tracker! (can also be used for cheese, kid snacks for babysitter sharing, anything!)
-	Create a Tipple:  Take a photo of the bottle, can, or the menu line at the restaurant.
-	Tag your Tipple:  Tag with the name of the store, restaurant, red, white, belgian, stout, brand name, etc.  Anything that will help you remember.
-	Describe your Tipple:  Describe what you liked or didn’t like about it.
-	Share your Tipple:  Share with your husband so he can find your fave at the store, share with your friends so you can chat tannins or notes or whatever it is you like about it, find out what your friends like so you know what to bring to the next party.
-Like/Delete Tipples: as described
-
-
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+Ever rebuy the same wine only to later remember that you actually didn’t like that one?  Ever struggle to remember that amazing brew you had last summer?  Enter… tipple tracker! (can also be used for cheese, kid snacks for sharing with babysitters, anything!)
 
 Here's why:
 * Create a Tipple: Take a photo of the bottle, can, or the menu line at the restaurant.
@@ -100,7 +92,7 @@ Here's why:
 * Share your Tipple:  Share with your husband so he can find your fave at the store, share with your friends so you can chat tannins or notes or whatever it is you like about it, find out what your friends like so you know what to bring to the next party.
 * Like/Delete Tipples: If all your friends "like" a drink, you know that's the next one to bring to the party.
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have have contributed to expanding this template!
+
 
 A list of commonly used resources that I find helpful are listed in the acknowledgements.
 
